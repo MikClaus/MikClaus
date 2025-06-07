@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello! 👋 I'm a QA Specialist
+I'm a junior QA engineer focused on manual, API, and performance testing. I'm a fast learner who values detailed reports and high-quality results.
 
-<!--
-**MikClaus/MikClaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Skills:
+Manual Testing (Test Cases, Bug Reports)
 
-Here are some ideas to get you started:
+API Testing (Postman, Swagger)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Performance Testing (JMeter)
+
+Tools: Jira, TestRail, Git, VS Code
+
+📁 Projects:
+Manual Testing Project – Test cases, checklists, bug reports
+
+API Testing (Postman) – Collections, requests, documentation
+
+Performance Testing (JMeter) – Scenarios, graphs, analysis
+
+📫 Contact Me:
+LinkedIn
+
+Email: you@example.com
+
+Якщо хочеш, я можу оформити тобі готовий README.md або шаблон для GitHub-проєктів.
